@@ -11,7 +11,7 @@ npm install -g gitlab-letsencrypt-hexo
 
 ## use
 ```
-gitlab-le \
+gitlab-le-hexo \
 --email      example@example.com     `# Let's Encrypt email address` \
 --domain     example.com             `# Domain that the cert will be issued for` \
 --repository gitlab_user/gitlab_repo `# Namespaced repository identifier` \
