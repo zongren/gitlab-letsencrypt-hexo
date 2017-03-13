@@ -1,5 +1,5 @@
 ## gitlab-lensencrypt-hexo
-Used to auto renew gitlab page`s let's encrypt certificate that built with hexo.This is project is modifed from [rolodato/gitlab-letsencrypt: Easily generate a Let's Encrypt certificate for GitLab.com hosted pages](https://github.com/rolodato/gitlab-letsencrypt).
+Used to auto renew let's encrypt certificate for gitlab-hosted blogs that built with hexo.This project is modifed from [gitlab-letsencrypt](https://github.com/rolodato/gitlab-letsencrypt).
 
 ## prerequisite
 You need [lakenen/hexo-processor-static: Hexo plugin for copying static files from source/_static to public](https://github.com/lakenen/hexo-processor-static) to make `gitlab-letsencrypt-hexo` work.
