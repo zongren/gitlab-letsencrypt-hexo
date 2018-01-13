@@ -22,3 +22,6 @@ gitlab-le-hexo \
 ## useful link
 ### vcbuild error
 [https://zongren.me/2017/03/22/fix-npm-vcbuild-error/](https://zongren.me/2017/03/22/fix-npm-vcbuild-error/)
+
+### openssl error
+[http://slproweb.com/products/Win32OpenSSL.html](http://slproweb.com/products/Win32OpenSSL.html)
