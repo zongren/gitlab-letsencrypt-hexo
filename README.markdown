@@ -2,7 +2,7 @@
 Used to auto renew let's encrypt certificate for gitlab-hosted blogs that built with hexo.This project is modifed from [gitlab-letsencrypt](https://github.com/rolodato/gitlab-letsencrypt).
 
 ## prerequisite
-You need [hexo-processor-static](https://github.com/lakenen/hexo-processor-static) to make `gitlab-letsencrypt-hexo` work.
+You need [hexo-processor-static](https://github.com/lakenen/hexo-processor-static),python and visual c++ 2005 to make `gitlab-letsencrypt-hexo` work.
 
 ## install
 ```
@@ -18,3 +18,7 @@ gitlab-le-hexo \
 --token      ...                     `# GitLab personal access token, see https://gitlab.com/profile/personal_access_tokens` \
 --path       ...                     `# Path to put the challenge file,default is source/_static/.well-known/acme-challenge/`
 ```
+
+## useful link
+### vcbuild error
+[https://zongren.me/2017/03/22/fix-npm-vcbuild-error/](https://zongren.me/2017/03/22/fix-npm-vcbuild-error/)
